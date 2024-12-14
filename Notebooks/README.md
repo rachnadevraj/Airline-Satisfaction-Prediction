@@ -9,4 +9,4 @@ This is the first commit, it will be updated further
 
 3. App Implementation Using Streamlit
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/1T4hKOwsP-S6bvYHsCWjHA_VT6WbMJTvn)
+([https://colab.research.google.com/drive/1T4hKOwsP-S6bvYHsCWjHA_VT6WbMJTvn])
